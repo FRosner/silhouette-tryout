@@ -1,0 +1,2 @@
+# Routes
+GET     /                           de.frosner.st.Controller.index
